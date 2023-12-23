@@ -1,7 +1,5 @@
 # WebDev-YHC-Batch6
-Ini adalah code untuk tugas dari YHC divisi WebDev,Menggunakan HTML,CSS + Bootstrap,JS,PHP
-
-
+Ini adalah code untuk tugas dari YHC divisi WebDev,Menggunakan HTML,CSS + Bootstrap,JS,PHP native
 Cara Clone ke local
 1.Download melalui github
 2.import database yang ada,dengan nama project.sql pada repository ini
